@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VipElevator
+comment1.params=maxLoad
+comment1.target=VipElevator(int)
+comment2.params=newP
+comment2.target=boolean\ checkVip(Person)
+comment3.params=newP
+comment3.target=void\ getIn(Person)
+numComments=4

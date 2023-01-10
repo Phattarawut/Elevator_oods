@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Elevator
+comment1.params=
+comment1.target=void\ report()
+comment2.params=newP
+comment2.target=void\ getIn(Person)
+comment3.params=outP
+comment3.target=void\ getOut(Person)
+comment4.params=
+comment4.target=void\ openDoor()
+comment5.params=
+comment5.target=void\ closeDoor()
+comment6.params=rqFloor
+comment6.target=void\ selectFloor(int)
+comment7.params=
+comment7.target=void\ holdDoor()
+comment8.params=maxLoad
+comment8.target=Elevator(int)
+numComments=9

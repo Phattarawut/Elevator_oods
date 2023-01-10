@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=id\ weight
+comment1.target=Person(int,\ int)
+comment2.params=id\ weight\ isVip
+comment2.target=Person(int,\ int,\ boolean)
+numComments=3
